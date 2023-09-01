@@ -1,22 +1,22 @@
 # Reading List 
-This is a GitHub repo for sharing NLP reading groups.
+This is a GitHub repo for sharing readings for PSU NLP reading groups.
 A curated list of papers PSU NLP group members want to read or have read.
 
 ## Table of Contents
-- [Tutorial](#Tutorial)
-- [Reinforcement Learning](#Reinforcement Learning)
-- [Joint Training](#Joint Training)
-- [Others](#Others)
+- [Tutorial](#tutorial)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Joint Training](#joint-training)
+- [Others](#others)
 
 ## Tutorial 
 
-1. Self-training (https://ai.stanford.edu/blog/understanding-self-training/) (Suggested by Rui)
-2. Semi-Supervised Learning (https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) (Suggested by Rui)
-3. Data augmentation and generation (https://lilianweng.github.io/posts/2022-04-15-data-gen/) (Suggested by Rui)
-4. Active Learning (https://lilianweng.github.io/posts/2022-02-20-active-learning/) (Suggested by Rui)
+1. [Self-training](https://ai.stanford.edu/blog/understanding-self-training/) (Suggested by Rui)
+2. [Semi-Supervised Learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) (Suggested by Rui)
+3. [Data augmentation and generation](https://lilianweng.github.io/posts/2022-04-15-data-gen/) (Suggested by Rui)
+4. [Active Learning](https://lilianweng.github.io/posts/2022-02-20-active-learning/) (Suggested by Rui)
 5. [Reinforcement Learning course](https://github.com/dalmia/David-Silver-Reinforcement-learning) by David Silver (Suggested by Zhaohui)
 
-## Reinforcement Learning 
+## Reinforcement Learning
 
 1. [Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://aclanthology.org/N18-1158) (Narayan et al., NAACL 2018)
 2. [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://aclanthology.org/P18-1063) (Chen & Bansal, ACL 2018)
