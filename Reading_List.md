@@ -30,6 +30,6 @@ A curated list of papers PSU NLP group members want to read or have read.
 6. [A joint training dual-mrc framework for aspect based sentiment analysis](https://ojs.aaai.org/index.php/AAAI/article/view/17597) (Mao et al., AAAI 2021)
 
 ## Others
-
+1. [Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences](https://ojs.aaai.org/index.php/AAAI/article/view/17552) (Jia et al., AAAI 2021)
 
 
